@@ -1,5 +1,5 @@
 {
-  "name": "angular5-toaster",
+  "name": "angular5-toaster-1",
   "version": "5.0.0",
   "description": "An Angular Toaster Notification library based on AngularJS-Toaster",
   "main": "./dist/angular5-toaster.js",
@@ -33,10 +33,10 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Knowledge-OTP/Angular5-Toaster.git"
+    "url": "https://github.com/Knowledge-OTP/Angular5-Toaster-1.git"
   },
   "bugs": {
-    "url": "https://github.com/Knowledge-OTP/Angular5-Toaster/issues"
+    "url": "https://github.com/Knowledge-OTP/Angular5-Toaster-1/issues"
   },
   "peerDependencies": {
     "@angular/common": "^5.0.0",
