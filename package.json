@@ -33,10 +33,10 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/OfirZinkerz/Angular5-Toaster.git"
+    "url": "https://github.com/Knowledge-OTP/Angular5-Toaster.git"
   },
   "bugs": {
-    "url": "https://github.com/OfirZinkerz/Angular5-Toaster/issues"
+    "url": "https://github.com/Knowledge-OTP/Angular5-Toaster/issues"
   },
   "peerDependencies": {
     "@angular/common": "^5.0.0",
@@ -75,7 +75,7 @@
     "remap-istanbul": "0.8.3",
     "rimraf": "2.5.4",
     "rollup": "0.41.6",
-    "rxjs": "5.5.2",
+    "rxjs": "^6.2.2",
     "source-map-loader": "0.2.0",
     "ts-helpers": "1.1.2",
     "tslint": "5.3.2",
