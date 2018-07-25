@@ -1,5 +1,5 @@
 {
-  "name": "angular5-toaster-1",
+  "name": "angular5-toaster",
   "version": "5.0.0",
   "description": "An Angular Toaster Notification library based on AngularJS-Toaster",
   "main": "./dist/angular5-toaster.js",
